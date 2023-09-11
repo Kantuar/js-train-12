@@ -505,4 +505,4 @@ console.log("Завдання: 13 ==============================");
 let someSet = new Set(["apple", "banana", "1", "2"]);
 
 console.log(convertSetToDictionary(someSet));
-// Виведе: Map { 'apple' => 97, 'banana' => 98, '1' => 49, '2' => 50 }
+  // Виведе: Map { 'apple' => 97, 'banana' => 98, '1' => 49, '2' => 50 }
