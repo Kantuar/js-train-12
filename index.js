@@ -499,7 +499,7 @@ function convertSetToDictionary(set) {
   // Повертаємо отриманий словник
 }
 
-// Приклад використання функції convertSetToDictionary
+  // Приклад використання функції convertSetToDictionary
 console.log("Завдання: 13 ==============================");
 
 let someSet = new Set(["apple", "banana", "1", "2"]);
